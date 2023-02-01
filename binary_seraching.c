@@ -23,7 +23,6 @@ int binary_serach()
         else
             h = mid - 1;
     }
-    printf("\n acs");
     return -1;
 }
 int main()
